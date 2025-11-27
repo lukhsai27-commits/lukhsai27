@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 👋 Hi, I'm Soniya Gurung<br><br>Welcome to my GitHub profile! I'm an aspiring Python developer passionate about building clean, efficient, and practical software. I'm currently learning and improving my skills in Python programming, backend development, automation, and computer science fundamentals.<br><br>🚀 About Me<br><br>🔭 Currently learning: Python, Data Structures & Algorithms, Django, Flask, Git/GitHub<br><br>🎯 Goal: Become a job-ready Python developer within a year<br><br>🌱 Exploring: Web development, automation, APIs, and backend engineering<br><br>🤝 Open to collaborating on beginner-friendly open-source projects<br><br>📫 Reach me: (lukhsai27@gmail.com<br>LinkedIn: https://www.linkedin.com/in/soniya-gurung-085833395/)
 
